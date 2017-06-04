@@ -1,3 +1,5 @@
+# Maintainer: Tim Savannah <kata198@gmail.com>
+
 
 pkgname=shell-advancedutils
 pkgver=2.0.0
